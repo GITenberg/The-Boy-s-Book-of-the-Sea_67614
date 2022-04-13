@@ -1,0 +1,39 @@
+_repo: The-Boy-s-Book-of-the-Sea_67614
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wood, Eric
+    gutenberg_agent_id: '54364'
+    url: http://www.gutenberg.org/2009/agents/54364
+description: ''
+gutenberg_issued: '2022-03-13'
+identifiers:
+  gutenberg: '67614'
+  lccn: '16014601'
+language: en
+pgterms:marc904: https://archive.org/details/boysbookofsea00wood/mode/2up
+pgterms:marc905: 20210825042217wood
+pgterms:marc906: '1915'
+pgterms:marc907: US
+production_note: Brian Coe, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :Funk & Wagnalls Company,1915.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Sea stories'
+- GITenberg
+tableOfContents: 'Naval warfare, old and new -- The men who discovered the world --
+  Some early buccaneers -- Morgan: buccaneer and governor -- Under the Jolly Roger
+  -- Blockade running -- Adventures on a desert island -- Adrift with madmen -- Francis
+  Drake''s raid on the Spanish Main -- A gallant fisherman -- Fire at sea -- Romance
+  of treasure-trove -- Adventures under sea -- Chasing pirates in the China Sea --
+  A voyage of danger -- The guardians of the coast -- Great naval disasters -- Incidents
+  in the slave trade -- A race to succour -- A tragedy of the South Pole -- Stories
+  of the lifeboat -- Tales of the smugglers -- Modern corsairs -- The wreckers --
+  The tragedy of a wonder ship [the "Titanic"] -- Mysteries of the sea.'
+title: The Boy's Book of the Sea
+url: http://www.gutenberg.org/ebooks/67614
